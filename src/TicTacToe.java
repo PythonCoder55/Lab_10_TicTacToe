@@ -13,7 +13,7 @@
 * If no tie, switch player
 * Repeat from ask user for row step until winner or tie
 * Ask if they want to play again
-* If yes, clear board and switch player to X
+* If yes, switch player to X and return to top
 * If no, exit
 * */
 
